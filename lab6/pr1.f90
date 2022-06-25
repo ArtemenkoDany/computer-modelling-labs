@@ -1,3 +1,5 @@
+! Обчислити ряд 1/n! починаючи з 1
+
 program PRIM6_1
     INTEGER n, i
     REAL f 
